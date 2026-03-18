@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**Live Demo:** [YOUR_DEMO_LINK] · **Author:** [Shaunak Deshmukh](http://www.linkedin.com/in/shaunakdeshmukh)
+**Author:** [Shaunak Deshmukh](http://www.linkedin.com/in/shaunakdeshmukh)
 
 ---
 
